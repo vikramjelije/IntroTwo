@@ -15,7 +15,7 @@ public abstract class Shape {
         Square sq = new Square();
 
 //        We cannot create an object of shape as it is an abstract class
-//        Shape sh = new Shape();
+    //    Shape sh = new Shape();
 
         System.out.println(sq.area());
     }

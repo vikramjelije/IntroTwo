@@ -8,6 +8,6 @@ public class Male extends Human {
         //Protected is accessible because class is in same package
         System.out.println(obj.weight);
 
-        System.out.println(obj.weight);
+        System.out.println(this.weight);
     }
 }
